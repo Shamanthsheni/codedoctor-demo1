@@ -1,3 +1,3 @@
 function hello() {
-    console.log("Hello CodePulse!");
+    console.log("Hello CodePulse! AI");
 }
